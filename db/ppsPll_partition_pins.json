@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ErrLim",
+					"strict" : false
+				},
+				{
+					"name" : "out",
+					"strict" : false
+				},
+				{
+					"name" : "lock",
+					"strict" : false
+				},
+				{
+					"name" : "xPPS_Missing",
+					"strict" : false
+				},
+				{
+					"name" : "ext_pps_in",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

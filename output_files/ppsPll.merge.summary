@@ -1,0 +1,16 @@
+Partition Merge Status : Successful - Tue Dec 03 08:16:31 2019
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : ppsPll
+Top-level Entity Name : ppsPll
+Family : MAX 10
+Total logic elements : 1,382
+    Total combinational functions : 924
+    Dedicated logic registers : 991
+Total registers : 991
+Total pins : 7
+Total virtual pins : 0
+Total memory bits : 4,352
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
+UFM blocks : 0
+ADC blocks : 0
